@@ -1,0 +1,9 @@
+ID,Weekend,Time,Flavor,Size,Sold quickly
+T1,yes,morning,chocolate,small,YES
+T2,no,afternoon,strawberry,small,NO
+T3,no,morning,vanilla,large,NO
+T4,yes,lunch,strawberry,small,NO
+T5,no,lunch,chocolate,small,YES
+T6,yes,afternoon,vanilla,small,NO
+T7,yes,morning,strawberry,large,YES
+T8,no,afternoon,chocolate,large,YES

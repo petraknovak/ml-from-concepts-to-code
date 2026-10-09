@@ -1,0 +1,17 @@
+ID,Weekend,Time,Flavor,Size,Sold quickly
+1,no,morning,chocolate,small,YES
+2,yes,afternoon,vanilla,large,NO
+3,no,morning,strawberry,small,NO
+4,yes,morning,chocolate,large,YES
+5,no,lunch,vanilla,small,NO
+6,yes,afternoon,strawberry,large,NO
+7,no,afternoon,chocolate,small,YES
+8,yes,morning,vanilla,small,YES
+9,no,lunch,strawberry,large,NO
+10,yes,lunch,chocolate,small,YES
+11,no,afternoon,vanilla,large,NO
+12,yes,afternoon,strawberry,small,NO
+13,no,lunch,chocolate,large,YES
+14,yes,lunch,vanilla,small,NO
+15,no,morning,vanilla,small,YES
+16,yes,afternoon,chocolate,large,YES
