@@ -1,0 +1,22 @@
+
+name: ml
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - matplotlib
+  - seaborn
+  - ipython
+  - ipykernel
+  - openpyxl
+  - requests
+  - beautifulsoup4
+  - pypdf
+  - pytest
