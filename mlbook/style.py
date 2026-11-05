@@ -65,6 +65,17 @@ COLORS = {
 
 
 # ---------------------------------------------------------------------
+# Classification outcomes (author-selected colors)
+# ---------------------------------------------------------------------
+OUTCOME_COLORS = {
+    "true_positive": "red",
+    "true_negative": "blue",
+    "false_positive": "green",
+    "false_negative": "orange",
+}
+
+
+# ---------------------------------------------------------------------
 # Optional aliases for readability in notebooks
 # You can use either COLORS["model_1"] or ALIASES["linear"]
 # ---------------------------------------------------------------------
